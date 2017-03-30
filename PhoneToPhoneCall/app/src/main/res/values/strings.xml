@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Make a Phone To Phone Call or send a Message</string>
+    <string name="first_activity">Choose to make a Phone Call or send a Message</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
